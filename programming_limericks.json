@@ -1,0 +1,12 @@
+{
+  "Lisp": "There once was a time bygone,\nWay back in computing’s dawn.\nThe language was Lisp,\nIts functions were crisp,\nBut its parentheses went on and on and on.",
+  "C": "There once was a language named C,\nMade by Thompson and Ritchie.\nBut it didn’t take a smart aleck,\nTo screw up a malloc,\nFor everyone to segfault and flee.",
+  "C++": "Then came a language after C,\nThat was supposed to set us all free.\nObjects were the fuss,\nFor this language called C++.\nBut it was just a fancier way to crash your PC.",
+  "Perl": "There once was a language named Perl,\nThat Larry Wall thought would take over the world.\nBut the syntax was homely,\nAnd often write-only,\nAnd reading your code would make you hurl.",
+  "Python": "Python was a language for you and for me\nIt was simple and clean, but slow we agree.\nBut that was ok,\nWe loved it anyway.\nUntil it went from version 2 to version 3.",
+  "PHP": "There once was a language without any direction,\nIt lacked thought, and planning, and any affection.\nPHP was insane,\nAnd to save you from your pain,\nYou would need morphine in your SQL injection.",
+  "Java": "There once was a great reception,\nWhen Java had its conception.\nFor many fell in love,\nBut none could rise above,\nWhen they encountered a null pointer exception.",
+  "JavaScript": "JavaScript was made for the masses,\nIt lacked types, and modules, and classes.\nBut it became quite the giant,\nBecause it ran on server and client,\nUntil it crashed both, despite 100 test passes.",
+  "Ruby": "Then came the wind to our sails,\nIn a language that every hipster hails.\nIts name was Ruby,\nIt made an expert from a newbie,\nUntil it got traffic and it fell off the rails.",
+  "Go": "And when Ruby went over the hill,\nGo came in for the kill.\nIt seemed so fast,\nBut oh at long last,\nWe all got tired of err != nil."
+}
